@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<servers>
+	<server>
+		<server-name>server2</server-name>
+		<server-ip>59.64.159.62</server-ip>
+		<cameras>
+			<camera>
+				<c-ip>59.64.156.170</c-ip>
+			</camera>
+			<camera>
+				<c-ip>59.64.156.235</c-ip>
+			</camera>
+		</cameras>
+		<server-bak>59.64.159.160</server-bak>
+	</server>
+</servers>

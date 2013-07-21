@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="I:/分布式云计算/zookeeper-3.3.5/zookeeper-3.3.5/zookeeper-3.3.5.jar"/>
+	<classpathentry kind="lib" path="I:/JAVA/jars/dom4j-1.6.1/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="I:/JAVA/jars/jaxen-1.1.1/jaxen-1.1.1/jaxen-1.1.1.jar"/>
+	<classpathentry kind="lib" path="I:/分布式云计算/hadoop/lib/log4j-1.2.15.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/hadoop"/>
+	<classpathentry kind="lib" path="I:/JAVA/jars/jline-0.9.94/jline-0.9.94.jar"/>
+	<classpathentry kind="lib" path="I:/分布式云计算/apache-cassandra-1.1.2/lib/libthrift-0.7.0.jar"/>
+	<classpathentry kind="con" path="org.codehaus.xfire.eclipse.XFIRE_LIBRARY"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

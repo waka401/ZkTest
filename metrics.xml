@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metrics>
+	<server>
+		<server-ip>59.64.157.236</server-ip>
+		<weight>0.2</weight>
+	</server>
+	<server>
+		<server-ip>59.64.158.6</server-ip>
+		<weight>0.2</weight>
+	</server>
+	<server>
+		<server-ip>59.64.158.62</server-ip>
+		<weight>0.2</weight>
+	</server>
+	<server>
+		<server-ip>59.64.158.246</server-ip>
+		<weight>0.2</weight>
+	</server>
+</metrics>

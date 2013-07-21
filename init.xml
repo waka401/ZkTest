@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<servers>
+	<server>
+		<server-name>Damon-PC</server-name>
+		<server-ip>59.64.156.110</server-ip>
+		<cameras>
+			<camera>
+				<c-ip>10.11.33.22</c-ip>
+			</camera>
+		</cameras>
+	</server>
+</servers>
